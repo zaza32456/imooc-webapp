@@ -1,0 +1,33 @@
+.searchbox {
+  display: flex;
+  width: 89.333333%;
+  height: 30px;
+  align-items: center;
+  padding: 0 20px;
+  border-radius: 27.5px;
+  background-color: rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.05);
+}
+
+.icon-search {
+  color: #fff;
+  font-size: 20px;
+}
+
+.searchbox-form {
+  flex: 1;
+  margin-left: 6px;
+}
+
+.searchbox-input {
+  width: 100%;
+  background: none;
+  color: white;
+  font-size: 14px;
+  
+}
+
+.searchbox-input::-webkit-input-placeholder {
+  /* WebKit browsers 适配 Chrome */
+  color: #fff;
+}

@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+}
+
+.tab-container {
+  width: 76px;
+  background-color: #fafafa;
+}
+
+.content-container {
+  overflow-y: auto;
+  flex: 1;
+  background-color: white;
+}
+
+.loading-container .loading {
+  margin-top: 60px;
+}

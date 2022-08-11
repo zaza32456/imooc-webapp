@@ -1,0 +1,6 @@
+<div class="tab-container">
+  {{include'../tab/tab.art'}}
+</div>
+<div class="content-container">
+  {{include'../content/content.art'}}
+</div>

@@ -1,0 +1,15 @@
+.tab-item {
+  height: 40px;
+  line-height: 40px;
+  color: #333;
+  background-color: #fafafa;
+  text-align: center;
+  cursor: pointer;
+}
+
+.tab-item-active {
+  background-color: white;
+  font-weight: bold;
+  border-left: 2px solid #bf2a2f;
+  color: #bf2a2f;
+}

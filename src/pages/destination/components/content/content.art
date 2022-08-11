@@ -1,0 +1,6 @@
+<div id="loading-container" class="loading-container hidden">
+  {{include'../../../../components/loading/loading.art'}}
+</div>
+<ul id="content-list" class="content-list">
+
+</ul>

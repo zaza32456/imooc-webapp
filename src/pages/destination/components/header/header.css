@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  padding-top: 57px;
+  background: url(./header_bg.png) no-repeat;
+  background-size: cover;
+}
+
+.header-title {
+  color: #fff;
+  margin-bottom: 17px;
+  font-size: 18px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.header-container .searchbox {
+  background-color: rgba(0, 0, 0, 0.4);
+}
